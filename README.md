@@ -4,5 +4,4 @@ I found a framework that run actions in a browser simulating a real user. This f
 
 ## :fire: Motivation
 
-Where i'm currently working exists many tasks that can be automated, so i'm learning this to help my team and the company.
-
+Where I'm currently working exists many tasks that can be automated, so I'm learning this tool to help my team and the company.
